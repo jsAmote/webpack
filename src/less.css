@@ -1,0 +1,18 @@
+#title {
+  color: #fff;
+}
+#title .box1 {
+  width: 200px;
+  height: 100px;
+  background: url('../1.png');
+}
+#title .box2 {
+  width: 200px;
+  height: 100px;
+  background: url('../2.png');
+}
+#title .box3 {
+  width: 200px;
+  height: 100px;
+  background: url('../3.png');
+}
